@@ -1,0 +1,6 @@
+token=NDkxMjY5ODgwMzY5MTE5MjY0.DpyGWQ.HPW0Izj_04lHSw3lcLZ2fTxzIYY
+owner=312615743747391488
+prefix=Dj
+game=Tybe djhelp
+stayinchannel=true
+songinstatus=true
